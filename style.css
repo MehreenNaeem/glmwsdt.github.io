@@ -56,7 +56,7 @@ margin-top:20px;
 }
 
 .abstract {
-  text-align: justify;      /* Centers text horizontally */
+  text-align: center;      /* Centers text horizontally */
   max-width: 800px;        /* Optional: keeps the abstract from stretching too wide */
   margin: 20px auto;       /* Center the block on the page */
   line-height: 1.6;        /* Better readability */
