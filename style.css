@@ -44,6 +44,12 @@ width:100%;
 margin-top:20px;
 }
 /* Center abstract text */
+.center-text {
+  text-align: center;   /* centers the text horizontally */
+}
+.abstract {
+  text-align: center;
+}
 .abstract {
   text-align: center;      /* Centers text horizontally */
   max-width: 800px;        /* Optional: keeps the abstract from stretching too wide */
@@ -51,9 +57,7 @@ margin-top:20px;
   line-height: 1.6;        /* Better readability */
   font-size: 15px;         /* Paper-style font size */
 }
-.center-text {
-  text-align: center;   /* centers the text horizontally */
-}
+
 /* Center the whole content */
 .center-content {
   display: flex;
