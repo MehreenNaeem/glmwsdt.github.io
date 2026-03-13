@@ -52,11 +52,9 @@ margin-top:20px;
 }
 /* Center abstract text */
 .center-text {
-  text-align: center;   /* centers the text horizontally */
+  text-align: justify;   /* centers the text horizontally */
 }
-.abstract {
-  text-align: center;
-}
+
 .abstract {
   text-align: justify;      /* Centers text horizontally */
   max-width: 800px;        /* Optional: keeps the abstract from stretching too wide */
