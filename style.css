@@ -44,6 +44,23 @@ width:100%;
 margin-top:20px;
 }
 
+.results {
+width: 100%;
+border-collapse: collapse;
+margin-top: 20px;
+}
+
+.results th, .results td {
+border: 1px solid #444;
+padding: 8px;
+text-align: center;
+}
+
+.results th {
+background: #f2f2f2;
+font-weight: bold;
+}
+
 
 pre{
 background:#eee;
